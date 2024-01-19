@@ -1,2 +1,1 @@
-# LTTutoring
-Lauren's Website for Tutoring
+# Alnwick Pet Care
